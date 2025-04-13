@@ -1,0 +1,10 @@
+ Explain the sliding window technique and its use in string problems.  
+answer-
+The Sliding Window Technique is a smart way to solve problems involving subarrays or substrings. Instead of using nested loops (which can be slow, O(n²)), sliding window allows you to process a portion of the array or string at a time, and "slide" through it efficiently in O(n) time.
+
+Examples in String Problems:
+Problem	Sliding Window Role
+Longest Substring Without Repeating Characters	Expand window until duplicate, shrink until valid.
+Longest Substring with At Most K Distinct Characters	Keep a frequency map; shrink window when distinct count exceeds K.
+Minimum Window Substring (cover all target characters)	Expand until all characters covered, then shrink to minimize window.
+Fixed-Length Substring with Maximum Sum of Character Values	Classic fixed-size window: move one character at a time, updating sum.
