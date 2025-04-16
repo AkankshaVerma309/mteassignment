@@ -62,7 +62,7 @@ O(n) — where n is the number of elements.
 
 Only one pass through the array (pointers move inward).
 
-💡 Space Complexity:
+Space Complexity:
 O(1) — constant space, only two pointers used.
 
 No extra space proportional to the input size.
