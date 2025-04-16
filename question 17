@@ -75,7 +75,7 @@ Time Complexity:
 O(n) —
 Single pass through the array.
 
-💡 Space Complexity:
+ Space Complexity:
 O(1) —
 No extra space beyond a few variables.
 
