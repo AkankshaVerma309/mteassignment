@@ -88,7 +88,7 @@ O(n + m)
 Where n = number of nodes in list1 and m = number of nodes in list2.
 Each node is visited exactly once.
 
-💡 Space Complexity:
+ Space Complexity:
 O(1)
 No new nodes are created, only pointers are rearranged.
 If a recursive approach was used, the space complexity would be O(n + m) due to the call stack.=-
