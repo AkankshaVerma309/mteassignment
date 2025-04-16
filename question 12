@@ -73,7 +73,7 @@ One scan to find j.
 
 One pass to reverse the suffix.
 
-💡 Space Complexity:
+ Space Complexity:
 O(1) —
 
 In-place swaps and reversals, no extra space used.
